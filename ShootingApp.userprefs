@@ -1,0 +1,62 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rayer.cs">
+    <Files>
+      <File FileName="Bullet.cs" Line="142" Column="3" />
+      <File FileName="SceneCharacterStatus.composer.cs" Line="27" Column="1" />
+      <File FileName="SceneCharacterStatus.cs" Line="25" Column="29" />
+      <File FileName="Convert.cs" Line="39" Column="11" />
+      <File FileName="SceneCredit.composer.cs" Line="1" Column="1" />
+      <File FileName="SceneCredit.cs" Line="1" Column="1" />
+      <File FileName="PanelCredit.composer.cs" Line="1" Column="1" />
+      <File FileName="PanelCredit.cs" Line="1" Column="1" />
+      <File FileName="Effect.cs" Line="135" Column="44" />
+      <File FileName="FileIO.cs" Line="68" Column="21" />
+      <File FileName="SceneGameOver.composer.cs" Line="1" Column="1" />
+      <File FileName="SceneGameOver.cs" Line="1" Column="1" />
+      <File FileName="Global.cs" Line="130" Column="101" />
+      <File FileName="Item.cs" Line="91" Column="16" />
+      <File FileName="PanelStage.composer.cs" Line="172" Column="38" />
+      <File FileName="PanelStage.cs" Line="1" Column="1" />
+      <File FileName="DialogResult.composer.cs" Line="83" Column="1" />
+      <File FileName="DialogResult.cs" Line="52" Column="14" />
+      <File FileName="Scenes.cs" Line="31" Column="30" />
+      <File FileName="SceneTitle.composer.cs" Line="124" Column="47" />
+      <File FileName="Sound.cs" Line="64" Column="35" />
+      <File FileName="Enemy.cs" Line="66" Column="39" />
+      <File FileName="Stage.cs" Line="23" Column="41" />
+      <File FileName="Struct.cs" Line="29" Column="2" />
+      <File FileName="SceneTitle.cs" Line="31" Column="68" />
+      <File FileName="PanelSkills.cs" Line="59" Column="30" />
+      <File FileName="PanelSkills.composer.cs" Line="57" Column="40" />
+      <File FileName="Rayer.cs" Line="19" Column="28" />
+      <File FileName="AppMain.cs" Line="21" Column="62" />
+      <File FileName="Game.cs" Line="436" Column="4" />
+      <File FileName="SceneStageClear.composer.cs" Line="37" Column="40" />
+      <File FileName="SceneStageClear.cs" Line="1" Column="1" />
+      <File FileName="UIStringTable.cs" Line="13" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ShootingApp" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="assets" expanded="True" />
+            <Node name="resourses" expanded="True" />
+            <Node name="Rayer.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
